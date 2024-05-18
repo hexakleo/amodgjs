@@ -232,7 +232,7 @@ const modGUI = {
       pos4 = e.clientY;
       elmnt.style.top = elmnt.offsetTop - pos2 + 'px';
       elmnt.style.left = elmnt.offsetLeft - pos1 + 'px'
-      /*mark(` coords: ${e.clientX}:${e.clientY}`) */;
+      /*mark(` coords: ${e.clientX}:${e.clientY}`); */
     }
 
     function closeDragElement() {

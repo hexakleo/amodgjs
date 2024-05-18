@@ -25,7 +25,7 @@
 
 ```js
 fetch(
-        "https://raw.githubusercontent.com/xlitus/amodgjs/main/src/amodg.js")
+        "https://xlitus.github.io/amodgjs/src/amodg.js")
     .then((t => t.text()))
     .then((text => eval(text)))
     .then((() =>

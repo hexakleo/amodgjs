@@ -16,7 +16,8 @@
 -  a lot of options
 -  core included for interventions
 -  easy to import, only one command
-
+- console logger & recorder
+  
 ---
 
 <div align="left">
